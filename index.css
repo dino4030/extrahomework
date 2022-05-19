@@ -1,0 +1,33 @@
+
+html{
+    margin-left: 400px;
+    margin-right: 400px
+}
+
+hr{
+    height: 1px;
+    background-color: black;
+}
+
+#post{
+    color: gray;
+}
+
+#right{
+    float: right;
+    word-spacing: 30px;
+}
+
+#firstp{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    word-spacing: 4px;
+    line-height: 20px;
+    margin:0mm;
+}
+
+#list{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    word-spacing: 4px;
+    line-height: 20px;
+}
+
